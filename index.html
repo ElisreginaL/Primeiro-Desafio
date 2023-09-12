@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Arquitetando</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!--CABEÇALHO-->
+
+    <div class="background">
+        <h1 id="titulo">Tradição em projetos de arquitetura</h1>
+        <p id="subtítulo">Arquitetura residencial e comercial.</p>
+
+    </div>
+
+    <!--EXPERIÊNCIA-->
+
+    <div class="under">
+        <ul id="menu">
+            <li><p class="construido">850</p>
+                empreendimentos construídos</li>
+            <li><p class="construido">40</p>
+                anos de mercado e experiência</li>
+            <li><p class="construido">2,000,000</p>
+                m² em projetos construídos</li>
+        </ul>
+    </div>
+
+    <!--HISTÓRIA DA EMPRESA-->
+
+    <div id="middle">
+        <div id="header">
+            <h1 id="apresentacao">Arquitetos com História e Experiência</h1><br>
+            <br>          
+            <p class="paragrafo">Nós realizamos desde 2002 projetos e gerenciamento de obras.<br>
+                Com mais de 800 projetos e 2.000.000 de m² construídos, tendo<br>
+                como principal proposta transformar em realidade os sonhos de<br>
+                seus clientes, criando projetos personalizados, unindo a tradição<br>
+                e a modernidade em nossos projetos.<br></p><br>
+        </div>
+        <div id="image">
+            <img onmouseenter="AlterarAp()" onmouseout="AlterarAp2()" id="imagem" src="imagens/2-decoração-loft-industrial-com-mezanino_resized.jpg" alt="ERRO">
+            <script src="index.js"></script>
+        </div>
+    </div>
+
+    <!---Como conhecer melhor os serviços-->
+
+    <div id="bottom">
+        <h3 id="conheca">Conheça mais sobre nossos serviços:</h3>
+        <form id="uniaoforms" action="https://api.sheetmonkey.io/form/h7kwCeR3dXbVCgAXxzwFU1" method="post">
+            <input class="formulario" type="text" placeholder="Nome" name="Name" required><br>
+            <input class="formulario" type="email" placeholder="Email" name="Email" required><br>
+            <br>
+            <input type="hidden" name="Created" value="x-sheetmonkey-current-date-time"/>
+            <button id="botao" type="submit" >Fale Conosco</button><br>
+        </form>
+    </div>
+</body>
+</html>
