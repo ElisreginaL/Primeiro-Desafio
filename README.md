@@ -19,9 +19,7 @@ A página utiliza HTML, CSS e Javascript para criar uma apresentação visualmen
 
 <h1>Como Usar</h1>
 <h3>Para usar este código, siga estas etapas:</h3>
-<p>Clone ou faça o download deste repositório para o seu computador.</p>
-<p>Abra o arquivo "index.html" em seu navegador da web para visualizar a página.</p>
-<p>Ou você pode acessa-lo através do link: https://arquitetandocomdnc.netlify.app/</p>
+<p>Você pode acessa-lo através do link: https://arquitetandocomdnc.netlify.app/</p>
 <p>Terá acesso ao endpoint do formulário através do link: https://docs.google.com/spreadsheets/d/1i7UDoN5M4FKOg1SlwbDtlqXsxFZr7EPsYDlmfOoD3Z8/edit#gid=0</p>
 <p>Você pode personalizar o conteúdo, as imagens e o estilo editando o código HTML e os arquivos CSS conforme necessário.</p>
 <p>O formulário de contato está configurado para enviar dados para um endpoint específico, caso necessário solicite a mudança.</p>
