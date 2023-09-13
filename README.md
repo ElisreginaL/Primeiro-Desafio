@@ -13,7 +13,7 @@ A página utiliza HTML, CSS e Javascript para criar uma apresentação visualmen
 <h3>A página está estruturada em várias seções:</h3>
 <p><b>Cabeçalho:</b> Apresenta o nome da empresa e uma breve descrição dos serviços oferecidos.</p>
 <p><b>Experiência:</b> Exibe estatísticas relacionadas à experiência da empresa, como o número de empreendimentos construídos, anos de mercado e área total de projetos construídos.</p>
-<p><b>História da Empresa:</b> Apresenta informações sobre a história e experiência da empresa, bem como sua missão e valores.</p><
+<p><b>História da Empresa:</b> Apresenta informações sobre a história e experiência da empresa, bem como sua missão e valores.</p>
 <p><b>Imagem:</b> Mostra uma imagem relacionada à empresa e utiliza JavaScript para alterar a aparência quando o mouse passa sobre ela.</p>
 <p><b>Como Conhecer Melhor os Serviços:</b> Fornece um formulário de contato para que os visitantes possam entrar em contato com a empresa para obter mais informações.</p>
 
